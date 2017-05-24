@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+[Facebook Link](https://www.facebook.com/TenTonRobotics/)
+
+[1010 Youtube channel](https://www.youtube.com/channel/UCmcYFGZqtqBNyCCJ37hHmDQ/videos)
+
+[ Ten Ton Robotics WIX page](http://tentonrobotics.wixsite.com/home)
+
+[West Vancouver Mechatronics/Robotics Academy page](http://westvancouverschools.ca/academies/mechatronics-robotics)
+
+
 You can use the [editor on GitHub](https://github.com/1010Robotics/Presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
