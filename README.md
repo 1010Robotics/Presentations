@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Part 1 - The Big Picture](https://1010Robotics.github.io/Presentations/Programming Part 1 - The Big Picture.pdf)
+[Part 1 - The Big Picture](https://github.com/1010Robotics/Presentations/blob/master/Programming_Part_1_The_Big%20Picture.pdf)
 
 [Facebook Link](https://www.facebook.com/TenTonRobotics/)
 
